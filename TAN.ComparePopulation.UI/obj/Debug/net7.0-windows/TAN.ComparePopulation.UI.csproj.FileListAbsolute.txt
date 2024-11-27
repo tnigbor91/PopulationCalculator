@@ -1,0 +1,33 @@
+C:\Users\tnigb\OneDrive\Desktop\C#Intro\TAN.ComparePopulation\TAN.ComparePopulation.UI\obj\Debug\net7.0-windows\TAN.ComparePopulation.UI.csproj.AssemblyReference.cache
+C:\Users\tnigb\OneDrive\Desktop\C#Intro\TAN.ComparePopulation\TAN.ComparePopulation.UI\obj\Debug\net7.0-windows\TAN.ComparePopulation.UI.frmComparePopulation.resources
+C:\Users\tnigb\OneDrive\Desktop\C#Intro\TAN.ComparePopulation\TAN.ComparePopulation.UI\obj\Debug\net7.0-windows\TAN.ComparePopulation.UI.csproj.GenerateResource.cache
+C:\Users\tnigb\OneDrive\Desktop\C#Intro\TAN.ComparePopulation\TAN.ComparePopulation.UI\obj\Debug\net7.0-windows\TAN.ComparePopulation.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tnigb\OneDrive\Desktop\C#Intro\TAN.ComparePopulation\TAN.ComparePopulation.UI\obj\Debug\net7.0-windows\TAN.ComparePopulation.UI.AssemblyInfoInputs.cache
+C:\Users\tnigb\OneDrive\Desktop\C#Intro\TAN.ComparePopulation\TAN.ComparePopulation.UI\obj\Debug\net7.0-windows\TAN.ComparePopulation.UI.AssemblyInfo.cs
+C:\Users\tnigb\OneDrive\Desktop\C#Intro\TAN.ComparePopulation\TAN.ComparePopulation.UI\obj\Debug\net7.0-windows\TAN.ComparePopulation.UI.csproj.CoreCompileInputs.cache
+C:\Users\tnigb\OneDrive\Desktop\C#Intro\TAN.ComparePopulation\TAN.ComparePopulation.UI\bin\Debug\net7.0-windows\TAN.ComparePopulation.UI.exe
+C:\Users\tnigb\OneDrive\Desktop\C#Intro\TAN.ComparePopulation\TAN.ComparePopulation.UI\bin\Debug\net7.0-windows\TAN.ComparePopulation.UI.deps.json
+C:\Users\tnigb\OneDrive\Desktop\C#Intro\TAN.ComparePopulation\TAN.ComparePopulation.UI\bin\Debug\net7.0-windows\TAN.ComparePopulation.UI.runtimeconfig.json
+C:\Users\tnigb\OneDrive\Desktop\C#Intro\TAN.ComparePopulation\TAN.ComparePopulation.UI\bin\Debug\net7.0-windows\TAN.ComparePopulation.UI.dll
+C:\Users\tnigb\OneDrive\Desktop\C#Intro\TAN.ComparePopulation\TAN.ComparePopulation.UI\bin\Debug\net7.0-windows\TAN.ComparePopulation.UI.pdb
+C:\Users\tnigb\OneDrive\Desktop\C#Intro\TAN.ComparePopulation\TAN.ComparePopulation.UI\obj\Debug\net7.0-windows\TAN.ComparePopulation.UI.dll
+C:\Users\tnigb\OneDrive\Desktop\C#Intro\TAN.ComparePopulation\TAN.ComparePopulation.UI\obj\Debug\net7.0-windows\refint\TAN.ComparePopulation.UI.dll
+C:\Users\tnigb\OneDrive\Desktop\C#Intro\TAN.ComparePopulation\TAN.ComparePopulation.UI\obj\Debug\net7.0-windows\TAN.ComparePopulation.UI.pdb
+C:\Users\tnigb\OneDrive\Desktop\C#Intro\TAN.ComparePopulation\TAN.ComparePopulation.UI\obj\Debug\net7.0-windows\TAN.ComparePopulation.UI.genruntimeconfig.cache
+C:\Users\tnigb\OneDrive\Desktop\C#Intro\TAN.ComparePopulation\TAN.ComparePopulation.UI\obj\Debug\net7.0-windows\ref\TAN.ComparePopulation.UI.dll
+D:\SchoolFiles\Completed Classes\Semester 2\C#Intro\TAN.ComparePopulation\TAN.ComparePopulation.UI\bin\Debug\net7.0-windows\TAN.ComparePopulation.UI.exe
+D:\SchoolFiles\Completed Classes\Semester 2\C#Intro\TAN.ComparePopulation\TAN.ComparePopulation.UI\bin\Debug\net7.0-windows\TAN.ComparePopulation.UI.deps.json
+D:\SchoolFiles\Completed Classes\Semester 2\C#Intro\TAN.ComparePopulation\TAN.ComparePopulation.UI\bin\Debug\net7.0-windows\TAN.ComparePopulation.UI.runtimeconfig.json
+D:\SchoolFiles\Completed Classes\Semester 2\C#Intro\TAN.ComparePopulation\TAN.ComparePopulation.UI\bin\Debug\net7.0-windows\TAN.ComparePopulation.UI.dll
+D:\SchoolFiles\Completed Classes\Semester 2\C#Intro\TAN.ComparePopulation\TAN.ComparePopulation.UI\bin\Debug\net7.0-windows\TAN.ComparePopulation.UI.pdb
+D:\SchoolFiles\Completed Classes\Semester 2\C#Intro\TAN.ComparePopulation\TAN.ComparePopulation.UI\obj\Debug\net7.0-windows\TAN.ComparePopulation.UI.frmComparePopulation.resources
+D:\SchoolFiles\Completed Classes\Semester 2\C#Intro\TAN.ComparePopulation\TAN.ComparePopulation.UI\obj\Debug\net7.0-windows\TAN.ComparePopulation.UI.csproj.GenerateResource.cache
+D:\SchoolFiles\Completed Classes\Semester 2\C#Intro\TAN.ComparePopulation\TAN.ComparePopulation.UI\obj\Debug\net7.0-windows\TAN.ComparePopulation.UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\SchoolFiles\Completed Classes\Semester 2\C#Intro\TAN.ComparePopulation\TAN.ComparePopulation.UI\obj\Debug\net7.0-windows\TAN.ComparePopulation.UI.AssemblyInfoInputs.cache
+D:\SchoolFiles\Completed Classes\Semester 2\C#Intro\TAN.ComparePopulation\TAN.ComparePopulation.UI\obj\Debug\net7.0-windows\TAN.ComparePopulation.UI.AssemblyInfo.cs
+D:\SchoolFiles\Completed Classes\Semester 2\C#Intro\TAN.ComparePopulation\TAN.ComparePopulation.UI\obj\Debug\net7.0-windows\TAN.ComparePopulation.UI.csproj.CoreCompileInputs.cache
+D:\SchoolFiles\Completed Classes\Semester 2\C#Intro\TAN.ComparePopulation\TAN.ComparePopulation.UI\obj\Debug\net7.0-windows\TAN.ComparePopulation.UI.dll
+D:\SchoolFiles\Completed Classes\Semester 2\C#Intro\TAN.ComparePopulation\TAN.ComparePopulation.UI\obj\Debug\net7.0-windows\refint\TAN.ComparePopulation.UI.dll
+D:\SchoolFiles\Completed Classes\Semester 2\C#Intro\TAN.ComparePopulation\TAN.ComparePopulation.UI\obj\Debug\net7.0-windows\TAN.ComparePopulation.UI.pdb
+D:\SchoolFiles\Completed Classes\Semester 2\C#Intro\TAN.ComparePopulation\TAN.ComparePopulation.UI\obj\Debug\net7.0-windows\TAN.ComparePopulation.UI.genruntimeconfig.cache
+D:\SchoolFiles\Completed Classes\Semester 2\C#Intro\TAN.ComparePopulation\TAN.ComparePopulation.UI\obj\Debug\net7.0-windows\ref\TAN.ComparePopulation.UI.dll

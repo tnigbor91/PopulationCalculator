@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SchoolFiles\\Completed Classes\\Semester 2\\C#Intro\\TAN.ComparePopulation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87BD289E-DACC-463C-9EC6-767418A23D65}|TAN.ComparePopulation.UI\\TAN.ComparePopulation.UI.csproj|d:\\schoolfiles\\completed classes\\semester 2\\c#intro\\tan.comparepopulation\\tan.comparepopulation.ui\\frmcomparepopulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87BD289E-DACC-463C-9EC6-767418A23D65}|TAN.ComparePopulation.UI\\TAN.ComparePopulation.UI.csproj|solutionrelative:tan.comparepopulation.ui\\frmcomparepopulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87BD289E-DACC-463C-9EC6-767418A23D65}|TAN.ComparePopulation.UI\\TAN.ComparePopulation.UI.csproj|d:\\schoolfiles\\completed classes\\semester 2\\c#intro\\tan.comparepopulation\\tan.comparepopulation.ui\\frmcomparepopulation.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87BD289E-DACC-463C-9EC6-767418A23D65}|TAN.ComparePopulation.UI\\TAN.ComparePopulation.UI.csproj|solutionrelative:tan.comparepopulation.ui\\frmcomparepopulation.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87BD289E-DACC-463C-9EC6-767418A23D65}|TAN.ComparePopulation.UI\\TAN.ComparePopulation.UI.csproj|D:\\SchoolFiles\\Completed Classes\\Semester 2\\C#Intro\\TAN.ComparePopulation\\tan.comparepopulation.ui\\frmcomparepopulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{87BD289E-DACC-463C-9EC6-767418A23D65}|TAN.ComparePopulation.UI\\TAN.ComparePopulation.UI.csproj|solutionrelative:tan.comparepopulation.ui\\frmcomparepopulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 129,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:779911114:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmComparePopulation.cs [Design]",
+              "DocumentMoniker": "D:\\SchoolFiles\\Completed Classes\\Semester 2\\C#Intro\\TAN.ComparePopulation\\TAN.ComparePopulation.UI\\frmComparePopulation.cs",
+              "RelativeDocumentMoniker": "TAN.ComparePopulation.UI\\frmComparePopulation.cs",
+              "ToolTip": "D:\\SchoolFiles\\Completed Classes\\Semester 2\\C#Intro\\TAN.ComparePopulation\\TAN.ComparePopulation.UI\\frmComparePopulation.cs [Design]",
+              "RelativeToolTip": "TAN.ComparePopulation.UI\\frmComparePopulation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T23:54:36.149Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmComparePopulation.Designer.cs",
+              "DocumentMoniker": "D:\\SchoolFiles\\Completed Classes\\Semester 2\\C#Intro\\TAN.ComparePopulation\\TAN.ComparePopulation.UI\\frmComparePopulation.Designer.cs",
+              "RelativeDocumentMoniker": "TAN.ComparePopulation.UI\\frmComparePopulation.Designer.cs",
+              "ToolTip": "D:\\SchoolFiles\\Completed Classes\\Semester 2\\C#Intro\\TAN.ComparePopulation\\TAN.ComparePopulation.UI\\frmComparePopulation.Designer.cs",
+              "RelativeToolTip": "TAN.ComparePopulation.UI\\frmComparePopulation.Designer.cs",
+              "ViewState": "AQIAAMoAAAAAAAAAAAAowN8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T23:54:36.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmComparePopulation.cs",
+              "DocumentMoniker": "D:\\SchoolFiles\\Completed Classes\\Semester 2\\C#Intro\\TAN.ComparePopulation\\TAN.ComparePopulation.UI\\frmComparePopulation.cs",
+              "RelativeDocumentMoniker": "TAN.ComparePopulation.UI\\frmComparePopulation.cs",
+              "ToolTip": "D:\\SchoolFiles\\Completed Classes\\Semester 2\\C#Intro\\TAN.ComparePopulation\\TAN.ComparePopulation.UI\\frmComparePopulation.cs",
+              "RelativeToolTip": "TAN.ComparePopulation.UI\\frmComparePopulation.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAowFcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T23:54:36.175Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
